@@ -1,4 +1,4 @@
-package Serilize.json;
+package Serilaization.json;
 
 import com.alibaba.fastjson.JSON;
 import lombok.AllArgsConstructor;
