@@ -7,6 +7,8 @@ import com.documents4j.job.LocalConverter;
 import java.io.*;
 
 /**
+ * caution: only works on windows with office installed.
+ * <p>
  * author lyn
  * create_date_time 2020/1/10 9:29
  */
